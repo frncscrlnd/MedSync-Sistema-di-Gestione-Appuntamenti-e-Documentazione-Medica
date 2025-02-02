@@ -1,3 +1,4 @@
+# Doc. Req. MedSync – Sistema di Gestione Appuntamenti e Documentazione Medica v1.0.20250209
 ## Stakeholders:
 - pazienti: fruitori principali del servizio;
 - medici: si affidano al sistema per agevolare il proprio lavoro;
