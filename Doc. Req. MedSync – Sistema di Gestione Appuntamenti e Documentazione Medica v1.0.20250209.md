@@ -13,7 +13,7 @@
 ### Log-in:
 - i pazienti devono (MUST) poter accedere attraverso [[#^id|Identità digitale]];
 - i medici devono (MUST) poter accedere attraverso [[#^id|Identità digitale]];
-- il personale amministrativo deve (MUST) potersi autenticare attraverso [[#^id|Identità digitale]].
+- il personale amministrativo deve (MUST) poter accedere attraverso [[#^id|Identità digitale]].
 ### Gestione appuntamenti:
 - i pazienti devono (MUST) poter prenotare un appuntamento;
 - i pazienti devono (MUST) poter disdire un appuntamento;
