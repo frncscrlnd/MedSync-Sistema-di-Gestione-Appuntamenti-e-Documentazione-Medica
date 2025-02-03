@@ -28,8 +28,8 @@
 - i medici devono (MUST) poter aggiungere nuovi documenti clinici che riguardano i pazienti che hanno in cura;
 - il personale amministrativo [[#^rbac|non deve (MUST (NOT)) avere accesso alle documentazioni cliniche dei pazienti]].
 ### Notifica automatica:
-- i pazienti dovrebbero (SHOULD) poter ricevere notifiche relative ai propri appuntamenti;
-- i medici dovrebbero (COULD) poter ricevere notifiche relative ai propri appuntamenti;
+- il sistema dovrebbe (SHOULD) inviare una notifica ai pazienti per ricordare gli appuntamenti;
+- il sistema potrebbe (COULD) inviare una notifica ai medici per ricordare gli appuntamenti.
 ## Requisiti non funzionali:
 ### Sicurezza
 - il sistema deve rispettare le norme del regolamento europeo per la protezione dei dati (GDPR) in termini di dati sensibili. Per farlo vengono prese alcune misure specifiche:
