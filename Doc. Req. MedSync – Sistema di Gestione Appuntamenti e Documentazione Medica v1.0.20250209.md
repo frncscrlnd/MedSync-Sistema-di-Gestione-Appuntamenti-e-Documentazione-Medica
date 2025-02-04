@@ -23,7 +23,6 @@
 - il personale amministrativo deve (MUST) poter prenotare un appuntamento;
 ### Consultazione documenti:
 - i pazienti devono (MUST) poter consultare la propria documentazione clinica;
-- i pazienti devono (MUST) poter richiedere l'eliminazione definitiva dei propri dati;
 - i medici devono (MUST) poter consultare le documentazioni cliniche dei pazienti che hanno in cura;
 - i medici devono (MUST) poter aggiungere nuovi documenti clinici che riguardano i pazienti che hanno in cura;
 - il personale amministrativo [[#^rbac|non deve (MUST (NOT)) avere accesso alle documentazioni cliniche dei pazienti]].
