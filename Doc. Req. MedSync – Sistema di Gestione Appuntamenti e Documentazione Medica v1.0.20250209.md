@@ -6,7 +6,7 @@
 - sistema: permette una gestione efficiente delle attività;
 - identity provider: permette un controllo rigido degli accessi.
 ## Requisiti funzionali:
-### Registrazione: 
+### Registrazione:
 - i pazienti devono (MUST) potersi registrare al sistema attraverso [[#^id|Identità digitale]];
 - i medici devono (MUST) potersi registrare al sistema attraverso [[#^id|Identità digitale]];
 - il personale amministrativo deve (MUST) potersi registrare attravero [[#^id|Identità digitale]].
